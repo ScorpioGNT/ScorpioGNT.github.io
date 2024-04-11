@@ -1,9 +1,12 @@
 body {
   margin: 0 auto;
-  background-color: lightblue;
+  background-color: white;
   text-align: center;
 }
 
 h1 {
-  color: navy;
+  color: black;
+  text-decoration-line: underline;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px 5px black;
 }
